@@ -67,10 +67,19 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="alumno\anexo8p1.aspx" />
+    <Content Include="estilos\estilopm.css" />
     <Content Include="Global.asax" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="alumno\anexo8p1.aspx.cs">
+      <DependentUpon>anexo8p1.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="alumno\anexo8p1.aspx.designer.cs">
+      <DependentUpon>anexo8p1.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -94,7 +103,6 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="alumno\" />
     <Folder Include="App_Data\" />
     <Folder Include="docente\" />
     <Folder Include="Models\" />
