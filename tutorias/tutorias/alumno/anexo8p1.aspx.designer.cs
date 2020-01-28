@@ -7,11 +7,13 @@
 // </generado automáticamente>
 //------------------------------------------------------------------------------
 
-namespace tutorias.alumno {
-    
-    
-    public partial class anexo8p1 {
-        
+namespace tutorias.alumno
+{
+
+
+    public partial class anexo8p1
+    {
+
         /// <summary>
         /// Control TextBox1.
         /// </summary>
@@ -20,7 +22,7 @@ namespace tutorias.alumno {
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
         protected global::System.Web.UI.WebControls.TextBox TextBox1;
-        
+
         /// <summary>
         /// Control TextBox2.
         /// </summary>
@@ -29,7 +31,7 @@ namespace tutorias.alumno {
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
         protected global::System.Web.UI.WebControls.TextBox TextBox2;
-        
+
         /// <summary>
         /// Control TextBox5.
         /// </summary>
@@ -38,7 +40,7 @@ namespace tutorias.alumno {
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
         protected global::System.Web.UI.WebControls.TextBox TextBox5;
-        
+
         /// <summary>
         /// Control TextBox6.
         /// </summary>
