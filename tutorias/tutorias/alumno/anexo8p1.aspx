@@ -3,36 +3,18 @@
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="cphcontalu" runat="server">
     Formato de entrevista      
-        
-    
-    <table style="width:100%;">
-        <tr>
-            <td>Nombre:
+        <br />
+<br />
+Nombre:
                 <asp:TextBox ID="TextBox1" runat="server"></asp:TextBox>
-            </td>            
-        </tr>
-        <tr>
-            <td>Estatura:
+    Estatura:
                 <asp:TextBox ID="TextBox2" runat="server"></asp:TextBox>
-                
-            </td>
-            <td>
-                Peso:
-                <asp:TextBox ID="TextBox3" runat="server"></asp:TextBox>
-
-            </td>
-            
-        </tr>
-        <tr>
-            <td>
-                Carrera:
-                 <asp:TextBox ID="TextBox4" runat="server"></asp:TextBox>
-
-            </td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-        </tr>
-    </table>
+    Peso:
+                <asp:TextBox ID="TextBox5" runat="server"></asp:TextBox>
+    Carrera:
+                 <asp:TextBox ID="TextBox6" runat="server"></asp:TextBox>
+     
+    
     <br />
     <br />
     <br />

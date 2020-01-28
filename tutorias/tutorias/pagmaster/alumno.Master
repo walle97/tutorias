@@ -13,12 +13,14 @@
 <body>
     <form id="form1" runat="server">
         <header>
-            <h1>Tec de reynosa logo</h1>            
+            <h1>
+                <asp:Image ID="Image1" runat="server" Height="104px" ImageUrl="~/imagenes/Logo1.png" Width="230px" />
+            </h1>            
         </header>
         <div>
             <asp:ContentPlaceHolder ID="cphcontalu" runat="server">
             </asp:ContentPlaceHolder>
         </div>
-    </form>
+    </form> 
 </body>
 </html>
