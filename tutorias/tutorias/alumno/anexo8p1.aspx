@@ -13,7 +13,7 @@ Nombre:
                 <asp:TextBox ID="TextBox5" runat="server"></asp:TextBox>
     Carrera:
                  <asp:TextBox ID="TextBox6" runat="server"></asp:TextBox>
-     
+      
     
     <br />
     <br />

@@ -68,6 +68,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="alumno\anexo8p1.aspx" />
+    <Content Include="alumno\pruba.aspx" />
     <Content Include="estilos\estilopm.css" />
     <Content Include="Global.asax" />
     <Content Include="imagenes\Logo1.png" />
@@ -80,6 +81,13 @@
     </Compile>
     <Compile Include="alumno\anexo8p1.aspx.designer.cs">
       <DependentUpon>anexo8p1.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="alumno\pruba.aspx.cs">
+      <DependentUpon>pruba.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="alumno\pruba.aspx.designer.cs">
+      <DependentUpon>pruba.aspx</DependentUpon>
     </Compile>
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
