@@ -1,4 +1,4 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/pagmaster/alumno.Master" AutoEventWireup="true" CodeBehind="anexo8p2.aspx.cs" Inherits="tutorias.alumno.anexo8p1" %>
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/pagmaster/alumno.Master" AutoEventWireup="true" CodeBehind="anexo8p2.aspx.cs" Inherits="tutorias.alumno.anexo8p2" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="cphcontalu" runat="server">
@@ -16,7 +16,7 @@
 &nbsp;Donde realizaste tus estudios de:<br />
     <br />
 &nbsp;Primaria:
-                <asp:TextBox ID="TextBox5" runat="server" Width="589px"></asp:TextBox>
+                <asp:TextBox ID="TextBox5" runat="server" Width="591px"></asp:TextBox>
     &nbsp;<br />
     <br />
 &nbsp;Secundaria:
@@ -40,6 +40,10 @@
     </asp:CheckBoxList>
 &nbsp; Otros:&nbsp;
                 <asp:TextBox ID="TextBox12" runat="server" Width="95px"></asp:TextBox>
+    <br />
+    <br />
+    <br />
+    <br />
     <br />
     <br />
     <br />
