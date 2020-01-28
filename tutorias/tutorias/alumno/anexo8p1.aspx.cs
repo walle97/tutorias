@@ -13,5 +13,10 @@ namespace tutorias.alumno
         {
 
         }
+
+        protected void RadioButton1_CheckedChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

@@ -3,20 +3,29 @@
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="cphcontalu" runat="server">
     Formato de entrevista      
-        <br />
-<br />
-Nombre:
-                <asp:TextBox ID="TextBox1" runat="server"></asp:TextBox>
-    Estatura:
-                <asp:TextBox ID="TextBox2" runat="server"></asp:TextBox>
-    Peso:
-                <asp:TextBox ID="TextBox5" runat="server"></asp:TextBox>
-    Carrera:
-                 <asp:TextBox ID="TextBox6" runat="server"></asp:TextBox>
+        
+    <br />
+    <br />
+    Nombre: <asp:TextBox ID="TextBox1" runat="server"></asp:TextBox>
+     
+    Estatura: <asp:TextBox ID="TextBox2" runat="server"></asp:TextBox>
+     
+    Peso:<asp:TextBox ID="TextBox5" runat="server"></asp:TextBox>
+    
+    Carrera:<asp:TextBox ID="TextBox6" runat="server"></asp:TextBox>
+      
+    <br />
+      
+    Fecha de nacimiento:<asp:TextBox ID="TextBox7" runat="server"></asp:TextBox>
       
     
-    <br />
-    <br />
-    <br />
+    
+    
+&nbsp;Sexo<asp:RadioButton ID="Masculino" runat="server" OnCheckedChanged="RadioButton1_CheckedChanged" />
+    <asp:RadioButton ID="Femenino" runat="server" />
+&nbsp;
+      
+    
+    
     
 </asp:Content>
