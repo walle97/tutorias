@@ -16,7 +16,7 @@
 &nbsp;Donde realizaste tus estudios de:<br />
     <br />
 &nbsp;Primaria:
-                <asp:TextBox ID="TextBox5" runat="server" Width="587px"></asp:TextBox>
+                <asp:TextBox ID="TextBox5" runat="server" Width="589px"></asp:TextBox>
     &nbsp;<br />
     <br />
 &nbsp;Secundaria:
