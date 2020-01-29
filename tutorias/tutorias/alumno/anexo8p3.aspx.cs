@@ -7,14 +7,9 @@ using System.Web.UI.WebControls;
 
 namespace tutorias.alumno
 {
-    public partial class anexo8p2 : System.Web.UI.Page
+    public partial class anexo8p3 : System.Web.UI.Page
     {
         protected void Page_Load(object sender, EventArgs e)
-        {
-
-        }
-
-        protected void RadioButton1_CheckedChanged(object sender, EventArgs e)
         {
 
         }
