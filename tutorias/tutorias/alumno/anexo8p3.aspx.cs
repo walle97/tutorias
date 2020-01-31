@@ -13,5 +13,10 @@ namespace tutorias.alumno
         {
 
         }
+
+        protected void TextBox10_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
