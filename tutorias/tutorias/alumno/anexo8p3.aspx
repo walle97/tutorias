@@ -43,7 +43,7 @@
 &nbsp;<br />
     &nbsp;Hermanos (con cada uno de ellos):<br />
     <br />
-    **Tabla pendinete&nbsp;&nbsp; Relación<asp:TextBox ID="TextBox10" runat="server" OnTextChanged="TextBox10_TextChanged"></asp:TextBox>
+    **Tabla pendiente&nbsp;&nbsp; Relación<asp:TextBox ID="TextBox10" runat="server" OnTextChanged="TextBox10_TextChanged"></asp:TextBox>
     <asp:TextBox ID="TextBox11" runat="server"></asp:TextBox>
     <br />
     <br />
@@ -115,5 +115,6 @@
     &nbsp;¿Cuál es tu actividad recreativa?:  
                 <asp:TextBox ID="TextBox24" runat="server" Width="179px"></asp:TextBox>
     &nbsp;<br />
+   ** Tabla
 &nbsp;<br />
 </asp:Content>
