@@ -11,9 +11,6 @@
                 <asp:TextBox ID="TextBox1" runat="server" Width="179px"></asp:TextBox>
     &nbsp;<br />
 &nbsp;<br />
-                <asp:TextBox ID="TextBox2" runat="server" Width="179px"></asp:TextBox>
-    &nbsp;<br />
-&nbsp;<br />
         &nbsp;¿Cuál es tu rendimiento escolar?:  
                 <asp:TextBox ID="TextBox3" runat="server" Width="179px"></asp:TextBox>
     &nbsp;<br />
