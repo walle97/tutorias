@@ -11,7 +11,6 @@
                 <asp:TextBox ID="TextBox1" runat="server" Width="179px"></asp:TextBox>
     &nbsp;<br />
 &nbsp;<br />
-        &nbsp;¿Qué problemas personales intervienen en tus estudios?:  
                 <asp:TextBox ID="TextBox2" runat="server" Width="179px"></asp:TextBox>
     &nbsp;<br />
 &nbsp;<br />
