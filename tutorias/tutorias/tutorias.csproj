@@ -68,6 +68,8 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="alumno\anexo11p1.aspx" />
+    <Content Include="alumno\anexo11p2.aspx" />
+    <Content Include="alumno\anexo11p3.aspx" />
     <Content Include="alumno\anexo8p1.aspx" />
     <Content Include="alumno\anexo8p2.aspx" />
     <Content Include="alumno\anexo8p4.aspx" />
@@ -85,6 +87,20 @@
     </Compile>
     <Compile Include="alumno\anexo11p1.aspx.designer.cs">
       <DependentUpon>anexo11p1.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="alumno\anexo11p2.aspx.cs">
+      <DependentUpon>anexo11p2.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="alumno\anexo11p2.aspx.designer.cs">
+      <DependentUpon>anexo11p2.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="alumno\anexo11p3.aspx.cs">
+      <DependentUpon>anexo11p3.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="alumno\anexo11p3.aspx.designer.cs">
+      <DependentUpon>anexo11p3.aspx</DependentUpon>
     </Compile>
     <Compile Include="alumno\anexo8p1.aspx.cs">
       <DependentUpon>anexo8p1.aspx</DependentUpon>
