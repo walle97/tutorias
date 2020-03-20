@@ -18,7 +18,7 @@
   </tr>
   <tr>
     <th>A</th>
-    <td>¿Sueles dejar para el último la preparación de tus trabajos?</td>
+    <td>¿Sueles dejar para el último la preparación de tus trabajosu?</td>
       <td class="auto-style1">&nbsp;<input type="radio" name="opc1" value="si"><br></td>
     <td class="auto-style1">&nbsp;<input type="radio" name="opc2" value="no"><br></td>
   </tr>
