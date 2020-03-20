@@ -67,6 +67,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="alumno\anexo11p1.aspx" />
     <Content Include="alumno\anexo8p1.aspx" />
     <Content Include="alumno\anexo8p2.aspx" />
     <Content Include="alumno\anexo8p4.aspx" />
@@ -78,6 +79,13 @@
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="alumno\anexo11p1.aspx.cs">
+      <DependentUpon>anexo11p1.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="alumno\anexo11p1.aspx.designer.cs">
+      <DependentUpon>anexo11p1.aspx</DependentUpon>
+    </Compile>
     <Compile Include="alumno\anexo8p1.aspx.cs">
       <DependentUpon>anexo8p1.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
